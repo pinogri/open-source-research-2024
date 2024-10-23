@@ -7,7 +7,7 @@
 
 
 <img src="./img/logo.jpg"/>
-
+Link on HABR https://habr.com/ru/companies/spbifmo/articles/851088/
 Репозиторий содержит открытые данные, собранные в рамках аналитического исследования 
 "Использование ML/Data Open Source в России", 
 доступного по ссылке https://opensource.itmo.ru.
